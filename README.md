@@ -10,3 +10,6 @@ How to use:
 	surf = mlab.contour_surf(x,y,u)  #will use the default colormap
 	surf.module_manager.scalar_lut_manager.lut.table = cmap._viridis_lut
 
+# Viridis
+
+	![viridis](viridis.png)
