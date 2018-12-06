@@ -12,4 +12,4 @@ How to use:
 
 # Viridis
 
-	![viridis](viridis.png)
+	![viridis](https://github.com/KrisJe/custom_colormap/blob/master/viridis.png)
