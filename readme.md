@@ -15,5 +15,5 @@ How to use:
 	![viridis](viridis.png)
  
 <div align="center">
-[![viridis](https://github.com/KrisJe/custom_colormap/edit/master/viridis.png)](https://github.com/KrisJe/custom_colormap/edit/master/viridis.png)
+[![viridis](https://raw.githubusercontent.com/custom_colormap/edit/master/viridis.png)](https://github.com/KrisJe/custom_colormap)
 </div>
