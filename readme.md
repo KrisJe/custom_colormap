@@ -12,5 +12,5 @@ How to use:
 
 # Viridis
 
-[![viridis](https://raw.githubusercontent.com/Krisje/custom_colormap/master/viridis.png)](https://github.com/KrisJe/custom_colormap/master/viridis.png)
+[![viridis](https://raw.githubusercontent.com/Krisje/custom_colormap/master/viridis.png)](https://raw.githubusercontent.com/KrisJe/custom_colormap/master/viridis.png)
 
