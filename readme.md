@@ -15,7 +15,7 @@ How to use:
 	![viridis](viridis.png)
  
 
-[![viridis](https://raw.githubusercontent.com/custom_colormap/edit/master/viridis.png)](https://github.com/KrisJe/custom_colormap/edit/master/viridis.png)
-[![viridis](https://github.com/custom_colormap/edit/master/viridis.png)](https://github.com/KrisJe/custom_colormap/edit/master/viridis.png)
+[![viridis](https://raw.githubusercontent.com/custom_colormap/master/viridis.png)](https://github.com/KrisJe/custom_colormap/master/viridis.png)
+[![viridis](https://github.com/custom_colormap/master/viridis.png)](https://github.com/KrisJe/custom_colormap/master/viridis.png)
 
 [![logo](https://raw.githubusercontent.com/tinygrad/tinygrad/master/docs/logo.png)](https://tinygrad.org)
