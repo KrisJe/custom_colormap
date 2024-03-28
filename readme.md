@@ -18,4 +18,4 @@ How to use:
 [![viridis](https://raw.githubusercontent.com/custom_colormap/edit/master/viridis.png)](https://github.com/KrisJe/custom_colormap/edit/master/viridis.png)
 [![viridis](https://github.com/custom_colormap/edit/master/viridis.png)](https://github.com/KrisJe/custom_colormap/edit/master/viridis.png)
 
-[![tinygrad discord](https://discordapp.com/api/guilds/1068976834382925865/widget.png?style=banner2)](https://discord.gg/ZjZadyC7PK)
+[![logo](https://raw.githubusercontent.com/tinygrad/tinygrad/master/docs/logo.png)](https://tinygrad.org)
