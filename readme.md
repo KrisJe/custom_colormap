@@ -12,10 +12,5 @@ How to use:
 
 # Viridis
 
-	![viridis](viridis.png)
- 
-
 [![viridis](https://raw.githubusercontent.com/Krisje/custom_colormap/master/viridis.png)](https://github.com/KrisJe/custom_colormap/master/viridis.png)
-[![viridis](https://github.com/KrisJe/custom_colormap/master/viridis.png)](https://github.com/KrisJe/custom_colormap/master/viridis.png)
 
-[![logo](https://raw.githubusercontent.com/tinygrad/tinygrad/master/docs/logo.png)](https://tinygrad.org)
